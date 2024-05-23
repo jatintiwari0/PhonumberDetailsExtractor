@@ -4,6 +4,11 @@ Uncover phone number mysteries effortlessly with this Python code! 🌟 Harnessi
 <img src ="https://i.postimg.cc/Jnvnh8DM/Screenshot-2024-05-23-115730.png">
 
 TO RUN FILES JUST TYPE
+First, you'll need to install the phonenumbers library. You can do this using pip:
+```
+pip install phonenumbers
+```
+
 ```
 python phonumberDetailsExtractor.py
 ```
